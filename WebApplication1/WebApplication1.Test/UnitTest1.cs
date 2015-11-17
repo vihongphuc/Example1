@@ -9,6 +9,7 @@ namespace WebApplication1.Test
         [TestMethod]
         public void TestMethod1()
         {
+            var gitFlow = string.Empty;
         }
     }
 }
