@@ -11,6 +11,7 @@ namespace WebApplication1.Test
         {
             var gitFlow = string.Empty;
             var gitFlow2 = "Create test feature 02";
+            gitFlow2 += "New update";
         }
     }
 }
