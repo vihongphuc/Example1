@@ -19,6 +19,10 @@ namespace WebApplication1.Test
 
 			var gitFlow3 = "Create test feature 03";
             gitFlow3 += "update";
+
+
+            var gitFlow4 = "Create test feature 04";
+            gitFlow4 += "update";
         }
     }
 }
